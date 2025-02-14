@@ -56,6 +56,9 @@ You can deploy the application using **Streamlit**:
 ```
 streamlit run app.py  
 ```  
+## 📍 Live Demo
+
+Check out the hosted version of the recommender system here: [Movie Recommender System](https://film-recommender-system.streamlit.app/)
 
 ## 📌 Future Enhancements  
 - 🔹 Improve recommendations using **Deep Learning** (Neural Networks)  
