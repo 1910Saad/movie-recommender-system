@@ -19,7 +19,3 @@ This is a **Content-Based Movie Recommender System** built using Python. It sugg
 
 ## 📦 Installation  
 ### 🔹 1. Clone the repository  
-```
-git clone https://github.com/your-username/movie-recommender-system.git  
-cd movie-recommender-system  ```
-###🔹 2. Install Dependencies  
