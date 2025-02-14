@@ -1,10 +1,10 @@
-#🎬 Content-Based Movie Recommender System
+# 🎬 Content-Based Movie Recommender System
 
-##📌 Overview
+## 📌 Overview
 
 This is a Content-Based Movie Recommender System built using Python. It suggests movies to users based on the similarity of movie features, such as genres, plot descriptions, and cast information. The system calculates similarity scores using Natural Language Processing (NLP) and machine learning techniques.
 
-##🚀 Features
+## 🚀 Features
 
 Suggests similar movies based on user input
 
@@ -14,7 +14,7 @@ Works with movie metadata (title, genre, description, etc.)
 
 Built with Python and its core libraries (pandas, scikit-learn, numpy, etc.)
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3.x
 
@@ -26,7 +26,7 @@ numpy - Array operations
 
 pickle - Model storage and loading
 
-##📦 Installation
+## 📦 Installation
 
 Clone the repository:
 
@@ -41,7 +41,7 @@ Run the recommender system:
 
 python app.py
 
-##📜 How It Works
+## 📜 How It Works
 
 Loads the movie dataset (metadata)
 
@@ -53,7 +53,7 @@ Computes similarity scores using Cosine Similarity
 
 Retrieves and displays the most similar movies based on user input
 
-##🎯 Example Usage
+## 🎯 Example Usage
 
 Enter a movie name: Inception
 Recommended Movies:
@@ -62,13 +62,13 @@ Recommended Movies:
 3. Shutter Island
 4. The Dark Knight
 
-##🚀 Deployment (Optional)
+## 🚀 Deployment (Optional)
 
 You can deploy the application using Streamlit:
 
 streamlit run app.py
 
-##📌 Future Enhancements
+## 📌 Future Enhancements
 
 Improve recommendations using Deep Learning (Neural Networks)
 
@@ -76,11 +76,11 @@ Deploy as a web app using Flask/Django
 
 Add user preferences and collaborative filtering
 
-##💡 Contributing
+## 💡 Contributing
 
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
-##📄 License
+## 📄 License
 
 This project is open-source and available under the MIT License.
 
