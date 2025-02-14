@@ -27,10 +27,10 @@ def recommend(movie):
 
 
 
-movies_dicts = pickle.load(open('movies_dict.pkl ','rb'))
+movies_dicts = pickle.load(open('movies_dict.pkl','rb'))
 movies = pd.DataFrame(movies_dicts)
 
-similarity = pickle.load(open('similarity.pkl ','rb'))
+similarity = pickle.load(open('similarity.pkl','rb'))
 
 print(movies)
 
